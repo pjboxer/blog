@@ -1,1 +1,0 @@
-This is my attempt to learn git, ruby, and jekyll for my new blog.
