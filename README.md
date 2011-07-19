@@ -1,6 +1,7 @@
 # About
 
-Jekyll code for [](http://) _posts are hosted locally.
+Jekyll code for [pjboxer.com](http://www.pjboxer.com/).  
+_posts are hosted locally.
 
 ---
 
